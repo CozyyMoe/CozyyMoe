@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @CozyyMoe, 13, New To Coding
-
-<!---
-CozyyMoe/CozyyMoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Yo im Cozyy
+13
+Learning Node.Js
